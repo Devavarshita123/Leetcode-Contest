@@ -1,3 +1,12 @@
+Solved in Contest:
 1) Maximum Score of a split 
 Key learning : Don't directly jump to solution, I wasted lot of time and found that question is given something else and I am solving other.
                look for return value, I returned int instead of long.
+3) Smallest all 1's multiples
+Key learning : When we can compute tasks without storing the whole, prefer it.
+                Reminders play a very crucial role.
+              remainder = (remainder * 10 + 1) % k
+
+Solved after Contest:
+1) Minimum Cost to acquire required items.
+2) Number of balances integers in a range.
